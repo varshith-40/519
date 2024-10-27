@@ -56,7 +56,7 @@
 <body>
 
 <header>
-    <h1>Vasanth Vijayaram Gajapathi Raj College of Engineering</h1>
+    <h1>Sathwik Vijayaram Gajapathi Raj College of Engineering</h1>
     <p>For Admissions - contact: 8639457769 / 9440089335</p>
     <p>Prof. YMC Shekhar (Vice Principal) - 9440018657</p>
     <p>College Code: MVRG</p>
