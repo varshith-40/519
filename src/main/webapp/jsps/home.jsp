@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maharaj Vijayaram Gajapathi Raj College of Engineering</title>
+    <title>Sathwik Vijayaram Gajapathi Raj College of Engineering</title>
     <style>
         body {
             font-family: Arial, sans-serif;
