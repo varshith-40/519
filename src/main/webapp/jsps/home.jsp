@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sathwik Vijayaram Gajapathi Raj College of Engineering</title>
+    <title>Nithin College of Engineering</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -56,7 +56,7 @@
 <body>
 
 <header>
-    <h1>Sathwik Vijayaram Gajapathi Raj College of Engineering</h1>
+    <h1>Nithin College of Engineering</h1>
     <p>For Admissions - contact: 8639457769 / 9440089335</p>
     <p>Prof. YMC Shekhar (Vice Principal) - 9440018657</p>
     <p>College Code: MVRG</p>
